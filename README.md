@@ -1,4 +1,4 @@
-# Kaffebarbar ☕
+## **Kaffebarbar** ☕
 Bestillingsløsning for hypotetisk kaffebar. Basert på OOP prinsipper.
 
 
@@ -10,16 +10,16 @@ OPPSETT AV SQL DATABSEN:
 	 (BEKLAGER PÅ FORHÅND)
 
 
-Planer
--Midlertidig HTML-form for utseende.
--Vise oversikt over varer på data hentet fra JSON fil eller direkte via index.php .
--Benytte VueJS CDN
--Bruke v-bind og andre Vue direktiver i front-end
--Implementere aspekter fra et av mine tidligere prosjekter: https://dndidag.no/bokhylle/
+## **Planer**
+- Midlertidig HTML-form for utseende.
+- Vise oversikt over varer på data hentet fra JSON fil eller direkte via index.php .
+- Benytte VueJS CDN
+- Bruke v-bind og andre Vue direktiver i front-end
+- Implementere aspekter fra et av mine tidligere prosjekter: https://dndidag.no/bokhylle/
 
 
-Problemer
--Generering av kvittering eksisterer ikke.
--Stiliseringen er mangelfull
--Globaler skal ikke finnes og skal lagres inn i et scope.
--DEL 2 står uferdiggjort.
+## **Problemer**
+- Generering av kvittering eksisterer ikke.
+- Stiliseringen er mangelfull
+- Globaler skal ikke finnes og skal lagres inn i et scope.
+- Står uferdiggjort.
