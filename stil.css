@@ -1,0 +1,28 @@
+body {
+    font-family: "Inter", sans-serif;
+    line-height: 1.5;
+    background: rgb(216 234 241);
+    z-index: -1;
+  }
+  
+main {
+    min-height: 100vh;
+    padding: 25px;
+    background: #97c6d8;
+    border-radius: 10px;
+  }
+
+
+.feilmelding {
+    background: rgb(206, 58, 58);
+    color: rgb(254 253 229);
+}
+
+.innhold {
+    overflow: hidden;
+    background-color: white;
+    padding: 0px 30px 30px 30px;
+    border-radius: 10px;
+    width: 40vw;
+    box-shadow: 5px 10px 10px;
+  } 
