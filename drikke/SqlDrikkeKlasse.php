@@ -2,10 +2,10 @@
 
 	class SqlDrikkeKlasse
 	{
-		private $vert = "46.250.221.12";
-		private $bruker = "mmnbnuvi_manfelt";
-		private $passord = "ilwtvoc54kyp895kc3";
-		private $database = "mmnbnuvi_kaffebar";
+		private $vert = "localhost";
+		private $bruker = "root";
+		private $passord = "";
+		private $database = "kaffebar";
 		public  $con;
 
 
